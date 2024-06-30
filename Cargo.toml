@@ -7,7 +7,7 @@ edition = "2021"
 
 [[bin]]
 name = "curvetree"
-path = "src/modified_wip.rs"
+path = "src/optimized_wip.rs"
 
 [dependencies]
 halo2_proofs = { path = "./halo2/halo2_proofs" }
